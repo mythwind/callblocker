@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">来电白名单</string>
+    <string name="enable_call_blocker">开启电话拦截功能</string>
+
+</resources>
